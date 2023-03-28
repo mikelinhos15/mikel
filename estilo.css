@@ -1,0 +1,44 @@
+body{
+	background: silver;
+}
+h1{
+	font-size:30px;
+	text-decoration: underline;
+	background: gold;
+	text-align: center;
+	border: 5px black solid
+}
+h2{
+	text-decoration: underline;
+}
+img{
+	border: 5px black solid;
+}
+.centro{
+	position: relative;
+	left: 745px;
+}
+.subrayada{
+	text-decoration:underline;
+}
+.color{
+	color: rgb(25,200,100);
+}
+a:visited{
+	color:purple;
+}
+.rojo{
+	color:red;
+}
+.amarillo{
+	color:yellow;
+}
+.verde{
+	color:green;
+}
+.blanco{
+	color:white;
+}
+.naranja{
+	color:orange;
+}
